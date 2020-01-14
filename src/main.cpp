@@ -9,7 +9,7 @@
  
 // вписываем здесь данные для своей WiFi-сети:
 const char* ssid = "dn_24G";
-const char* password = "ASUSnet1";
+const char* password = "...";
  
 // веб-сервер на порте 80:
 WiFiServer server(80);
